@@ -1,0 +1,8 @@
+/* Navbar.css */
+.hamburger-line {
+    width: 30px;
+    height: 3px;
+    background-color: #333; /* You can customize the color */
+    margin: 6px 0;
+  }
+  

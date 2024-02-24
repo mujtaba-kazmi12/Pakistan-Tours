@@ -1,0 +1,11 @@
+/* src/index.css */
+/* Importing Tailwind CSS styles */
+@import './styles/tailwind.css';
+
+/* Your existing styles */
+@import url('https://fonts.googleapis.com/css2?family=YourFont:wght@400;700&display=swap');
+
+/* Then define your custom font within the class */
+.font-yourfont {
+  font-family: 'YourFont', sans-serif;
+}
